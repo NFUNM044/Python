@@ -7,12 +7,13 @@
 |时间|2019.12-2020.01|
 
 
-# pythonanywhere URL：
-### →请点击 [我的pythonanywhere作品](http://gawing.pythonanywhere.com)
+# 💯pythonanywhere URL：
+### →请点击    [我的pythonanywhere作品](http://gawing.pythonanywhere.com)
 
-# 代码Github URL：
+# 💯代码Github URL： 
+### → 点击可看详情代码文件   [我的代码文件](https://github.com/NFUNM044/Python)
 
-# 数据传递描述：
+# ✏数据传递描述：
 1. 总共有6个路径，”/index” , “/local_expense”, “/detail”, “/data”, “/scatter”, “/effectScatter”，分别对应6个页面。
 2. ”/”根路由重定向给”/index”，因为在HTML有option的标签，option的value属性无法直接实现”/”根路由的跳转
 3.  “/index”跳转可以看到首页，也就是项目的介绍

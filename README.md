@@ -11,7 +11,7 @@
 ### →请点击    [我的pythonanywhere作品](http://gawing.pythonanywhere.com)
 
 # 💯代码Github URL： 
-### → 点击可看详情代码文件   [我的代码文件](https://github.com/NFUNM044/Python)
+### → 点击可看详情代码文件   [我的代码文件](https://github.com/NFUNM044/Python/tree/master/code)
 
 # ✏数据传递描述：
 1. 总共有6个路径，”/index” , “/local_expense”, “/detail”, “/data”, “/scatter”, “/effectScatter”，分别对应6个页面。
